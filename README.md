@@ -1,2 +1,2 @@
 # breast-cancer-prediction
-# Have a look at my project [here](https://github.com/sulagna206/breast-cancer-prediction/breast_cancer.ipynb)
+# Have a look at my project [here](docs/breast_cancer.ipynb)
